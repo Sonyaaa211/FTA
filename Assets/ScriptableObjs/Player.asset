@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcb3bfdfda7b8b6428efdf036f175d06, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  playerName: Sonyaaa
+  id: 1
+  coin: 500
+  diamond: 1000
+  level: 1
+  skinsOwned:
+  - {fileID: 11400000, guid: a1fd1197ae19b6149a526efca4eb6603, type: 2}
+  itemsOwned:
+  - {fileID: 11400000, guid: dd8273e18b7b8b34a909e9d660d791b6, type: 2}
+  - {fileID: 11400000, guid: 25ce85412bb78c14da38cf3ed402e4f9, type: 2}
+  - {fileID: 11400000, guid: e7a10388427b39749b87af78ca45a35a, type: 2}
+  - {fileID: 11400000, guid: bf97e1ef4619f8448a99cf92fa9d0f80, type: 2}
+  - {fileID: 11400000, guid: 5e46645ce3988354699c5f31dc644359, type: 2}
+  - {fileID: 11400000, guid: 07df44995969b0141bbfcd4422e84380, type: 2}
+  skinUse: {fileID: 11400000, guid: a1fd1197ae19b6149a526efca4eb6603, type: 2}
+  itemsUse:
+  - {fileID: 11400000, guid: dd8273e18b7b8b34a909e9d660d791b6, type: 2}
+  - {fileID: 11400000, guid: 25ce85412bb78c14da38cf3ed402e4f9, type: 2}
+  - {fileID: 11400000, guid: e7a10388427b39749b87af78ca45a35a, type: 2}
+  - {fileID: 11400000, guid: bf97e1ef4619f8448a99cf92fa9d0f80, type: 2}
+  - {fileID: 11400000, guid: 5e46645ce3988354699c5f31dc644359, type: 2}
+  - {fileID: 11400000, guid: 07df44995969b0141bbfcd4422e84380, type: 2}
